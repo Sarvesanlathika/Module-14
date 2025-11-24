@@ -31,7 +31,7 @@ End the program.
 
 # PROGRAM
 ~~~
-Reg - 212222060245 Name - Singamala Rakshitha
+Reg-212222060229 Name-sarvesan lathika
 
 	# first process is 0
 	wt[0] = 0
@@ -132,7 +132,7 @@ End
 
 # PROGRAM
 ~~~
-Reg - 212222060245 Name - Singamala Rakshitha
+Reg-212222060229 Name-sarvesan lathika
 
 class Queue: def init(self, size): self.items = [0] * size self.max_size = size self.head, self.tail, self.size = 0, 0, 0
 
@@ -185,7 +185,7 @@ Print the contents of the deque.
 
 # PROGRAM
 ~~~
-Reg - 212222060245 Name - Singamala Rakshitha
+Reg-212222060229 Name-sarvesan lathika
 
 import collections
 n1=int(input())
@@ -218,7 +218,7 @@ Remove the front element of the deque using popleft(). Print the final deque aft
 
 # PROGRAM
 ~~~
-Reg - 212222060245 Name - Singamala Rakshitha
+Reg-212222060229 Name-sarvesan lathika
 
 import collections
   
@@ -260,7 +260,7 @@ While the queue is not empty, call delete() and print each returned element. End
 
 # PROGRAM
 ~~~
-Reg - 212222060245 Name - Singamala Rakshitha
+Reg-212222060229 Name-sarvesan lathika
 
 # A simple implementation of Priority Queue
 # using Queue.
